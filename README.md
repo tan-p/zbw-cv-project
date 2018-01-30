@@ -1,7 +1,7 @@
 # zbw-cv-project
 IT15H-18H A-B
 
-##Installation steps
+## Installation steps
 
 1. Install latest node.js 
 2. check in terminal with  `npm -v`
