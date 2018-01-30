@@ -1,0 +1,11 @@
+{
+  "generator-nitro": {
+    "name": "cv-project",
+    "preprocessor": "scss",
+    "jscompiler": "JavaScript",
+    "viewExtension": "hbs",
+    "clientTemplates": false,
+    "exporter": true,
+    "release": false
+  }
+}
