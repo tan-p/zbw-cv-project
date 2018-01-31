@@ -9,11 +9,13 @@ IT15H-18H A-B
 4. download zip-file and extract 
 5. open terminal
 6. change dir to cloned or unziped folder
-7. run `npm install`
-8. run `gulp develop`
-9. http://localhost:8081/ opens automatically
-10. enjoy :)
+7. run either `npm install gulp -g` or `sudo npm install gulp -g` on mac
+8. run `npm install`
+9. run `gulp develop`
+10. http://localhost:8081/ opens automatically
+11. enjoy :)
 
 ## Extend your Sublime Editor
 1. Open Package-Manager (shift+cmd+P)
 2. Add Package "Handlebars"
+3. Add Package "SCSS"
